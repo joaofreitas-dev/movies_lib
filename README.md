@@ -1,5 +1,6 @@
 
 ### Movie Lib
+<img src="https://github.com/joaofreitas-dev/movies_lib/blob/main/public/assets/img/Captura%20de%20tela%20de%202023-09-17%2015-38-29.png">
 
 O Movie Lib é uma biblioteca de filmes consumindo do TMDB API.
 
