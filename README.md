@@ -12,7 +12,7 @@ https://movieslib-plum.vercel.app/
 ### Clone o repositório:
 
 ```
-    git clone https://github.com/joaofreitas-dev/client-elgeladon.git
+https://github.com/joaofreitas-dev/movies_lib.git
 ```
 
 ### Abra o terminal dentro desta pasta clonada e execute:
