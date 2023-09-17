@@ -1,5 +1,5 @@
 
-# Movie Lib
+### Movie Lib
 
 O Movie Lib é uma biblioteca de filmes consumindo do TMDB API.
 
@@ -8,7 +8,24 @@ Acesse em:
 
 https://movieslib-plum.vercel.app/
 ````
+## Execute localmente
+## Clone o repositório:
 
+```
+    git clone https://github.com/joaofreitas-dev/client-elgeladon.git
+```
+
+### Abra o terminal dentro desta pasta clonada e execute:
+
+```
+    npm install
+```
+
+### Para executar o projeto, use:
+
+```
+    npm run dev
+```
 ## Funcionalidades
 
 - Leitura de filmes
