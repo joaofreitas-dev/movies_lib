@@ -9,7 +9,7 @@ Acesse em:
 https://movieslib-plum.vercel.app/
 ````
 ## Execute localmente
-## Clone o repositório:
+### Clone o repositório:
 
 ```
     git clone https://github.com/joaofreitas-dev/client-elgeladon.git
